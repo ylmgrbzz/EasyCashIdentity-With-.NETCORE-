@@ -1,0 +1,14 @@
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\bin\Debug\net6.0\EasyCashIdentityDtoLayer.deps.json
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\bin\Debug\net6.0\EasyCashIdentityDtoLayer.runtimeconfig.json
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\bin\Debug\net6.0\EasyCashIdentityDtoLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\bin\Debug\net6.0\EasyCashIdentityDtoLayer.pdb
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.csproj.AssemblyReference.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.AssemblyInfoInputs.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.AssemblyInfo.cs
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\refint\EasyCashIdentityDtoLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.pdb
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\EasyCashIdentityDtoLayer.genruntimeconfig.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDtoLayer\obj\Debug\net6.0\ref\EasyCashIdentityDtoLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\bin\Debug\net6.0\EasyCashIdentityDataAccessLayer.deps.json
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\bin\Debug\net6.0\EasyCashIdentityDataAccessLayer.runtimeconfig.json
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\bin\Debug\net6.0\EasyCashIdentityDataAccessLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\bin\Debug\net6.0\EasyCashIdentityDataAccessLayer.pdb
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\bin\Debug\net6.0\EasyCashEntityLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\bin\Debug\net6.0\EasyCashEntityLayer.pdb
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.AssemblyInfo.cs
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.csproj.CopyComplete
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\refint\EasyCashIdentityDataAccessLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.pdb
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\EasyCashIdentityDataAccessLayer.genruntimeconfig.cache
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityDataAccessLayer\obj\Debug\net6.0\ref\EasyCashIdentityDataAccessLayer.dll
