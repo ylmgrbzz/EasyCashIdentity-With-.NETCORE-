@@ -7,5 +7,7 @@
         public string CustomerAccountCurrency { get; set; }
         public decimal CustomerAccountBalance { get; set; }
         public string BankBrach { get; set; }
+        public int appUserId { get; set; }
+        public AppUser AppUser { get; set; }
     }
 }
