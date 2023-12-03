@@ -1331,6 +1331,7 @@
         "dependencies": {
           "EasyCashEntityLayer": "1.0.0",
           "EasyCashIdentityDataAccessLayer": "1.0.0",
+          "EasyCashIdentityDtoLayer": "1.0.0",
           "FluentValidation": "11.8.1",
           "FluentValidation.AspNetCore": "11.3.0",
           "FluentValidation.DependencyInjectionExtensions": "11.8.1",
@@ -1361,6 +1362,22 @@
         },
         "runtime": {
           "bin/placeholder/EasyCashIdentityDataAccessLayer.dll": {}
+        }
+      },
+      "EasyCashIdentityDtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.16",
+          "Microsoft.EntityFrameworkCore": "6.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.16"
+        },
+        "compile": {
+          "bin/placeholder/EasyCashIdentityDtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyCashIdentityDtoLayer.dll": {}
         }
       }
     }
@@ -3097,6 +3114,11 @@
       "type": "project",
       "path": "../EasyCashIdentityDataAccessLayer/EasyCashIdentityDataAccessLayer.csproj",
       "msbuildProject": "../EasyCashIdentityDataAccessLayer/EasyCashIdentityDataAccessLayer.csproj"
+    },
+    "EasyCashIdentityDtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../EasyCashIdentityDtoLayer/EasyCashIdentityDtoLayer.csproj",
+      "msbuildProject": "../EasyCashIdentityDtoLayer/EasyCashIdentityDtoLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
