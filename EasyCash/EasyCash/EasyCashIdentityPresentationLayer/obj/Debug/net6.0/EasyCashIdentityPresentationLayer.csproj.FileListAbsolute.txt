@@ -77,3 +77,9 @@ C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLaye
 C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\obj\Debug\net6.0\EasyCashIdentityPresentationLayer.pdb
 C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\obj\Debug\net6.0\EasyCashIdentityPresentationLayer.genruntimeconfig.cache
 C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\obj\Debug\net6.0\ref\EasyCashIdentityPresentationLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\bin\Debug\net6.0\EasyCashIdentityDtoLayer.dll
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\bin\Debug\net6.0\EasyCashIdentityDtoLayer.pdb
+C:\Users\LST\Desktop\projects\EasyCash\EasyCash\EasyCashIdentityPresentationLayer\obj\Debug\net6.0\EasyCashIdentityPresentationLayer.MvcApplicationPartsAssemblyInfo.cs
